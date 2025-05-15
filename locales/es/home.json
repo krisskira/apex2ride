@@ -1,0 +1,53 @@
+{
+  "title": "Inicio",
+  "actions": {
+    "newAppraisal": "Nueva valoración"
+  },
+  "currentUsage": "Uso actual",
+  "previousUsage": "Uso anterior",
+  "total": "Total",
+  "new": "Nuevo",
+  "used": "Usado",
+  "chart": {
+    "salesTrend": "Tendencia de ventas",
+    "inventoryLevel": "Nivel de inventario",
+    "profabilityOverTime": "Ganancias a lo largo del tiempo",
+    "inTheLast30Days": "en los últimos 30 días",
+    "dateRange": "Rango de fechas",
+    "vehicleType": "Tipo de vehículo",
+    "dealerships": "Concesionarios",
+    "filterBy": "Filtrar por",
+    "avgDaySupply": "Promedio de días de suministro",
+    "totalInventory": "Inventario total",
+    "totalTurnoverRate": "Tasa de rotación total",
+    "avgProfitMargin": "Promedio de margen de ganancia",
+    "sales": "Ventas"
+  },
+  "waterReport": {
+    "title": "Informe de agua",
+    "description": "Nota: El precio de lista para vehículos usados se calcula con el valor actual de la guía de JD Power y Black Book, y el costo es el costo del concesionario en el vehículo.",
+    "subtitle": "Para inventario no vendido",
+    "viewUnsoldInventory": "Ver inventario no vendido",
+    "listPrice": "Precio de lista",
+    "cost": "Costo",
+    "profit": "Ganancia",
+    "profitMargin": "Margen de ganancia",
+    "acquisitionCost": "Costo de adquisición",
+    "reconditioningCost": "Costo de reposición",
+    "XYZCost": "Costo XYZ",
+    "margin": "Margen",
+    "netProfit": "Ganancia neta"
+  },
+  "recentSales": {
+    "title": "Ventas recientes",
+    "description": "en los últimos 30 días",
+    "viewAll": "Ver todos",
+    "noItemsText": "No se encontraron ventas recientes"
+  },
+  "quickReports": {
+    "title": "Reportes rápidos",
+    "description": "ejecutados en este mes",
+    "generateReport": "Generar reporte",
+    "noItemsText": "No se encontraron reportes rápidos"
+  }
+}

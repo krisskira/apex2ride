@@ -1,0 +1,51 @@
+{
+  "title": "Home",
+  "actions": {
+    "newAppraisal": "New Appraisal"
+  },
+  "currentUsage": "Current Usage",
+  "previousUsage": "Previous Usage",
+  "total": "Total",
+  "new": "New",
+  "used": "Used",
+  "chart": {
+    "salesTrend": "Sales Trend",
+    "inventoryLevel": "Inventory Levels",
+    "profabilityOverTime": "Profability Over Time",
+    "inTheLast30Days": "in the last 30 days",
+    "dateRange": "Date Range",
+    "vehicleType": "Vehicle Type",
+    "dealerships": "Dealerships",
+    "filterBy": "Filter by",
+    "avgDaySupply": "Avg. Day Supply",
+    "totalInventory": "Total Inventory",
+    "totalTurnoverRate": "Total Turnover Rate",
+    "avgProfitMargin": "Avg. Profit Margin",
+    "sales": "Sales"
+  },
+  "waterReport": {
+    "title": "Water Report",
+    "description": "Note that the List Price for pre-owned vehicles is calculated by the current book value from JD Power and Black Book, and Cost is the dealer’s cost on the unit.",
+    "subtitle": "For unsold inventory",
+    "viewUnsoldInventory": "View Unsold Inventory",
+    "listPrice": "List Price",
+    "cost": "Cost",
+    "profit": "Profit",
+    "profitMargin": "Profit Margin",
+    "acquisitionCost": "Acquisition Cost",
+    "reconditioningCost": "Reconditioning Cost",
+    "XYZCost": "XYZ Cost"
+  },
+  "recentSales": {
+    "title": "Recent Sales",
+    "description": "in the last 30 days",
+    "viewAll": "View All",
+    "noItemsText": "No recent sales found"
+  },
+  "quickReports": {
+    "title": "Quick Reports",
+    "description": "run in this month",
+    "generateReport": "Generate Report",
+    "noItemsText": "No quick reports found"
+  }
+}

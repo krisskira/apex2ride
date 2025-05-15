@@ -1,0 +1,23 @@
+{
+  "date": "Date",
+  "customer": "Customer",
+  "vehicleDetails": "Vehicle Details",
+  "type": "Type",
+  "vin": "VIN",
+  "status": "Status",
+  "appraisalValue": "Appraisal Value",
+  "actions": "Actions",
+  "vehicle": "Vehicle",
+  "year": "Year",
+  "daysInInventory": "Days in Inventory",
+  "water": "Water",
+  "costBasis": "Cost Basis",
+  "bookValue": "Book Value",
+  "price": "Price",
+  "salesRepresentative": "Sales Representative",
+  "amount": "Amount",
+  "salesDate": "Sales Date",
+  "user": "User",
+  "newPrice": "New Price",
+  "oldPrice": "Old Price"
+}

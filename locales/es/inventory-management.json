@@ -1,0 +1,13 @@
+{
+  "title": "Gestión de inventario",
+  "vehiclesByType": "Vehículos por tipo",
+  "motorcycles": "Motocicletas",
+  "atvs": "ATVs",
+  "watercraft": "Barcos",
+  "inventory": "Inventario",
+  "allRooftops": "Todos los Rooftops",
+  "selectRooftop": "Seleccionar Rooftop",
+  "itemsPerPage": "Items por página",
+  "previous": "Anterior",
+  "next": "Siguiente"
+}

@@ -1,0 +1,23 @@
+{
+  "date": "Fecha",
+  "customer": "Cliente",
+  "vehicleDetails": "Detalles del Vehículo",
+  "type": "Tipo",
+  "vin": "VIN",
+  "status": "Estado",
+  "appraisalValue": "Valor de la Evaluación",
+  "actions": "Acciones",
+  "vehicle": "Vehículo",
+  "year": "Año",
+  "daysInInventory": "Días en Inventario",
+  "water": "Agua",
+  "costBasis": "Coste Base",
+  "bookValue": "Valor en Libros",
+  "price": "Precio",
+  "salesRepresentative": "Representante de Ventas",
+  "amount": "Cantidad",
+  "salesDate": "Fecha de Venta",
+  "user": "Usuario",
+  "newPrice": "Nuevo Precio",
+  "oldPrice": "Precio Anterior"
+}

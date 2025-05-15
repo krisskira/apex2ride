@@ -1,0 +1,22 @@
+{
+  "title": "Appraisals",
+  "actions": {
+    "newAppraisal": "New Appraisal"
+  },
+  "tabs": {
+    "dashboard": "Dashboard",
+    "tab1": "Tab 1",
+    "tab2": "Tab 2"
+  },
+  "metrics": {
+    "totalAppraisals": "Total Appraisals",
+    "avgAppraisalValue": "Avg. Appraisal Value",
+    "pendingAdjustments": "Pending Adjustments",
+    "pendingAppraisals": "Pending Appraisals",
+    "tradeBump": "Trade Bump"
+  },
+  "itemsPerPage": "Items por página",
+  "previous": "Anterior",
+  "next": "Siguiente",
+  "searchAppraisal": "Buscar appraisal"
+}
